@@ -53,8 +53,10 @@ Open `typing-speed-test.html` directly in your browser — no server or installa
 ```
 Typing_Speed_Test/
 │
-├── typing-speed-test.html   # Main application file
-└── README.md                # Project documentation
+├── index.html    # Main structure & layout
+├── style.css     # All styling & animations
+├── script.js     # Game logic & functionality
+└── README.md     # Project documentation
 ```
 
 ---
@@ -69,7 +71,7 @@ Typing_Speed_Test/
    ```bash
    cd Typing_Speed_Test
    ```
-3. Open `typing-speed-test.html` in your browser.
+3. Open `index.html` in your browser.
 
 That's it — no dependencies or setup required!
 
